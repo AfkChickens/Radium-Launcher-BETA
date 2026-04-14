@@ -1,6 +1,8 @@
 # Radium-Launcher-BETA
 _**⚠️ `Beta version there could be bugs` ⚠️**_
 
+* **Owner** (`AfkChicken`)
+
 * **Developer** (`AfkChicken`,`WATNIK`)
 
 * **Music** (`PENTEZ`)

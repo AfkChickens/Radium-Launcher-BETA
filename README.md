@@ -1,6 +1,8 @@
 # Radium-Launcher-BETA
 _**⚠️ `Beta version there could be bugs` ⚠️**_
 
+_**⚠️ `we are making analytics to see how many people use the launcher` ⚠️**_
+
 * **Owner** (`AfkChicken`)
 
 * **Developer** (`AfkChicken`,`WATNIK`)
